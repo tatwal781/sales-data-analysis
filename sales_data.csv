@@ -1,0 +1,13 @@
+id,customer_name,country,product_name,category,quantity,price,revenue,order_date
+1,Alice,UK,Laptop,Electronics,1,1000,1000,1/5/2026
+2,Bob,UK,Phone,Electronics,2,600,1200,1/12/2026
+3,Charlie,USA,Headphones,Electronics,3,150,450,1/20/2026
+4,Alice,UK,Phone,Electronics,1,600,600,2/2/2026
+5,David,Canada,Desk,Furniture,1,300,300,2/10/2026
+6,Emma,UK,Chair,Furniture,2,200,400,2/18/2026
+7,Bob,UK,Laptop,Electronics,1,1000,1000,3/1/2026
+8,Charlie,USA,Phone,Electronics,1,600,600,3/8/2026
+9,Alice,UK,Headphones,Electronics,2,150,300,3/15/2026
+10,Emma,UK,Desk,Furniture,1,300,300,3/22/2026
+11,Bob,UK,Phone,Electronics,1,600,600,3/25/2026
+12,Alice,UK,Chair,Furniture,1,200,200,2/25/2026
